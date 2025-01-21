@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Echo<br>🤝  Wiling to collaborate <br>🧑🏻‍🎓 I’m currently a Student<br>
+🔭 I’m currently working on Echo<br>🤝  Wiling to collaborate <br>🧑🏻‍🎓 I’m a Student<br>
 
 
 # 💻 Tech Stack:
