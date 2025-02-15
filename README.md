@@ -2,7 +2,7 @@
 
 <div style="background-color: #2E8B57; padding: 20px; border-radius: 10px; color: white;">
   
-- 👋 Hi,  
+- 👋 Hi, I'm Harman
 - 👀 I’m interested in Web Development, Cloud Computing, and Cybersecurity  
 - 🌱 I’m a Full-Stack Developer currently studying at the University of Alberta  
 
@@ -35,16 +35,25 @@
 
 # 📊 GitHub Stats:
 
-<div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
+<div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Harman-DevCloud&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" width="32%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harman-DevCloud&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="32%" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harman-DevCloud&theme=nightowl&hide_border=false" width="32%" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harman-DevCloud&theme=nightowl&hide_border=false" width="400px"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harman-DevCloud&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400px"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Harman-DevCloud&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" width="800px"/>
+      </td>
+    </tr>
+  </table>
 
 </div>
-
 
 
 
