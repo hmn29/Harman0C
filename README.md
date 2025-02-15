@@ -48,7 +48,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Harman-DevCloud&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" width="800px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Harman-DevCloud&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" width="600px"/>
       </td>
     </tr>
   </table>
