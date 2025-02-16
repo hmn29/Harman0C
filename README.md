@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harman ♕ 
+#  ♕  Hi, I'm Harman ♕ 
 - 👀 I’m interested in Web Development, Cloud Computing, and Cybersecurity  
 - 🌱 I’m a Full-Stack Developer currently studying at the University of Alberta  
 
