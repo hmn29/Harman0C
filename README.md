@@ -1,12 +1,6 @@
-# ♕ 
-
-<div style="background-color: #2E8B57; padding: 20px; border-radius: 10px; color: white;">
-  
-- 👋 Hi, I'm Harman
+# 👋 Hi, I'm Harman ♕ 
 - 👀 I’m interested in Web Development, Cloud Computing, and Cybersecurity  
 - 🌱 I’m a Full-Stack Developer currently studying at the University of Alberta  
-
-</div>
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -32,6 +26,23 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+<h2>⚡️ Where to find me</h2>
+<p>
+  <a target="_blank" href="https://twitter.com/hm04a4" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=black" alt="twitter" />
+  </a>
+  
+  <a target="_blank" href="https://dev.to/hmn004" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=BLACK" alt="dev.to" />
+  </a>
+  
+  <a target="_blank" href="https://www.linkedin.com/in/harman004/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" alt="linkedin" />
+  </a>
+</p>
+
 
 # 📊 GitHub Stats:
 
