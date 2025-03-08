@@ -1,6 +1,6 @@
 #  ♕  Hi, I'm Harman ♕ 
-- 👀 I’m interested in Web Development, Cloud Computing, and Cybersecurity  
-- 🌱 I’m a Full-Stack Developer currently studying at the University of Alberta  
+- 👀 I’m a Full-Stack Developer 
+- 🌱 Studying at the University of Alberta  
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
