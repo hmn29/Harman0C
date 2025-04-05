@@ -38,7 +38,7 @@
      </tr>
      <tr>
       <td>
-        <a target="_blank" href="https://www.linkedin.com/in/harman004/" style="display: inline-block;">
+        <a target="_blank" href="www.linkedin.com/in/harmanp1" style="display: inline-block;">
          <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" alt="linkedin" />
        </a>
       </td>   
