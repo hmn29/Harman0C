@@ -24,17 +24,23 @@
 <table>
     <tr>
        <td align="center">
-        <img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=black" alt="twitter" />
+           <a target="_blank" href="https://twitter.com/hm04a4" style="display: inline-block;">
+             <img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=black" alt="twitter" />
+           </a>
       </td>
      </tr>
      <tr>
      <td>
-        <img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=BLACK" alt="dev.to" />
+          <a target="_blank" href="https://dev.to/hmn004" style="display: inline-block;">
+             <img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=BLACK" alt="dev.to" />
+           </a>
       </td>  
      </tr>
      <tr>
       <td>
-        <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" alt="linkedin" />
+        <a target="_blank" href="https://www.linkedin.com/in/harman004/" style="display: inline-block;">
+         <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" alt="linkedin" />
+       </a>
       </td>   
      </tr>
 </table>
