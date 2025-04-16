@@ -56,7 +56,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Harman0C&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" width="600px"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harman0C&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400px"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmn29&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400px"/>
       </td> 
     </tr>
   </table>
