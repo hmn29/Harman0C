@@ -1,4 +1,4 @@
-#  ♕  Yo, I'm Harman 
+#  ♕  Hi, I'm Harman 
 -   Studying at the University of Alberta   
 
 # 💻 Tech Stack:
