@@ -28,12 +28,7 @@
            </a>
       </td>
      </tr>
-     <tr>
-     <td>
-          <a target="_blank" href="https://dev.to/hmn004" style="display: inline-block;">
-             <img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=BLACK" alt="dev.to" />
-           </a>
-      </td>  
+     <tr> 
      </tr>
      <tr>
       <td>
