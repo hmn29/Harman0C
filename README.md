@@ -1,5 +1,4 @@
 #  ♕  Hi, I'm Harman ♕ 
--   I’m a Full-Stack Developer 
 -   Studying at the University of Alberta   
 
 # 💻 Tech Stack:
